@@ -1,0 +1,7 @@
+numpy
+pandas
+networkx
+matplotlib
+scikit-learn
+# Official TF pip GPU install (Linux): installs CUDA deps via pip extras
+tensorflow[and-cuda]

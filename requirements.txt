@@ -1,0 +1,6 @@
+numpy
+pandas
+networkx
+matplotlib
+tensorflow==2.15.0
+scikit-learn
